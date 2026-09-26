@@ -1,0 +1,6 @@
+.sippship/
+.venv/
+.env
+src/sippship/fixtures/repaired/
+src/sippship/fixtures/bad_repair/
+evidence/private/
