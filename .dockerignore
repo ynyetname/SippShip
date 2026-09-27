@@ -1,4 +1,5 @@
 *
 !docker/
 !docker/Dockerfile
+!docker/Dockerfile.node
 !requirements-worker.txt
